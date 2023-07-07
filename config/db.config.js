@@ -1,8 +1,8 @@
 module.exports = {
-    HOST: "localhost",
-    USER: "postgres",
-    PASSWORD: "1234",
-    DB: "logindb",
+    HOST: "http://129.151.167.184",
+    USER: "HiveHQ",
+    PASSWORD: "Hive@2552",
+    DB: "hive",
     dialect: "postgres",
     pool: {
       max: 5,
